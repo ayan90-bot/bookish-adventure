@@ -1,6 +1,5 @@
 import os
 import time
-import imghdr
 from flask import Flask, request
 import telebot
 from datetime import datetime, timedelta
